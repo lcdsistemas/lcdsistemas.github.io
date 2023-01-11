@@ -24216,7 +24216,7 @@ o.sm(0,B.b_)
 s=3
 return A.m(A.i5(A.dO('http://lcdsistemas.com.br/apilcd/api/usuarios/""/""/'+B.b.aD($.eR),0,null)),$async$a4M)
 case 3:p=b
-if(p.c==="OK"){o.sm(0,B.a5)
+if(p.b===200){o.sm(0,B.a5)
 $.aiG=$.cA=$.ch=""
 q=p
 s=1
